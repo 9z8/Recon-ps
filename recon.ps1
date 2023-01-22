@@ -23,10 +23,6 @@
 	This program gathers details from target PC to include everything you could imagine from wifi passwords to PC specs to every process running.
 	All of the gather information is formatted neatly and output to a file.
 	That file is then exfiltrated to cloud storage via Dropbox.
-.Link
-      https://developers.dropbox.com/oauth-guide	    # Guide for setting up your Dropbox for uploads
-      https://www.youtube.com/watch?v=Zs-1j42ySNU           # My youtube tutorial on Discord Uploads 
-      https://www.youtube.com/watch?v=VPU7dFzpQrM           # My youtube tutorial on Dropbox Uploads
 #>
 
 ############################################################################################################################################################
