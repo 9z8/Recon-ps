@@ -1,2 +1,2 @@
 # recon
-this script was coppied from IamJakoby, with some edits
+idk don't ask me, its a powershell script u figure it out
