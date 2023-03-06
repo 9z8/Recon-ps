@@ -1,2 +1,2 @@
-# recon
-idk don't ask me, its a powershell script u figure it out
+## recon
+#### A powershell script used to do an advanced level of information grabbing(recon) on the target computer.
